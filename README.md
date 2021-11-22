@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node Js
 - 🌱 I’m currently learning the backend!
-- 👯 I’m looking to collaborate on my Internship Project
-- 🤔 I’m looking for help with javascript
+- 👯 I’m looking to collaborate on Innovative Projects
+- 🤔 I’m looking for help to improve me projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/shreyansh-kashayap/)
 
